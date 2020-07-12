@@ -8,6 +8,7 @@ Ps. These days, I think I'm falling in love with vuejs (Don't tell anyone!).
 
 Whenever I'm not building, you can find me learning Spanish, French or by the beach side 🌱 eating turkey with a glass of yogurt.
 
+Currently, I drive engeering at [Vesicash](https://vesicash.com) and write technical articles at [devMoment](https://devmoment.com)
 <!--
 **ehiaig/ehiaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

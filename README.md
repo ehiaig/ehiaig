@@ -1,13 +1,10 @@
 ### Hi there, it's Ehi 👋
 Thank you for stopping by my profile today.
 
-I am very excited about AI, Computer Vision, Python and Php.
+💬 I like to discuss Artificial Intelligence, Computer Vision, Python and Php.
 Ps. These days, I think I'm falling in love with vuejs (Don't tell anyone!).  
 
-#### ✨ I believe that there is so much left to build ✨
-...and I'm looking to collaborate and contribute to build a future where data can be leveraged to serve people, create value, and improve quality of life.
-
-- 💬 I like to discuss Artificial Intelligence, Computer Vision, ...
+✨ I believe that there is so much left to build... and I'm looking to collaborate and contribute to build a future where data can be leveraged to serve people, create value, and improve quality of life.
 
 Whenever I'm not building, you can find me learning Spanish, French or by the beach side 🌱 eating turkey with a glass of yogurt.
 

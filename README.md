@@ -9,7 +9,7 @@ Ps. Although these days, I think I'm falling in love with vuejs 🤫(Don't tell 
 
 🔭 Whenever I'm not building, you can find me learning Spanish, French or by the beach side eating turkey with a glass of yogurt.🌱😋
 
-⚡ Currently, I drive engineering at [Vesicash](https://vesicash.com) and I write technical articles at [devMoment](https://devmoment.com)
+⚡ Currently, I building [web3signal](https://web3signal.com) and I write technical articles at [devMoment](https://devmoment.com)
 
 #### I can help you with:
 

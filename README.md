@@ -1,7 +1,7 @@
 ### Hi there, I'm Ehi 👋
 Thank you for stopping by my profile today.
 
-💬 I like to discuss Artificial Intelligence, Computer Vision, Python and Php.
+💬 I like to discuss Blockchain, Artificial Intelligence, Computer Vision, and Python.
 
 Ps. Although these days, I think I'm falling in love with vuejs 🤫(Don't tell anyone!).
 

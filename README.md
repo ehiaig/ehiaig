@@ -14,8 +14,7 @@ Ps. Although these days, I think I'm falling in love with vuejs 🤫(Don't tell 
 #### I can help you with:
 
     Technical writing 📝
-    Computer Vision tasks 👁
-    Manage your tech team 
+    Computer Vision tasks 👁 
 
 
 <!--

@@ -1,7 +1,7 @@
 ### Hi there, I'm Ehi 👋
 Thank you for stopping by my profile today.
 
-💬 I like to discuss Blockchain, Artificial Intelligence, Computer Vision, and Python.
+💬 I like to write about Blockchain, Artificial Intelligence, Computer Vision and I'm currently researching and developing products in Fintech, Blockchain and the economy of the metaverse.
 
 Ps. Although these days, I think I'm falling in love with vuejs 🤫(Don't tell anyone!).
 
@@ -14,7 +14,9 @@ Ps. Although these days, I think I'm falling in love with vuejs 🤫(Don't tell 
 #### I can help you with:
 
     Technical writing 📝
-    Computer Vision tasks 👁 
+    Computer Vision tasks 👁
+    Smart contract development
+
 
 
 <!--

@@ -1,23 +1,19 @@
 ### Hi there, I'm Ehi 👋
 Thank you for stopping by my profile today.
 
-💬 I like to write about Blockchain, Artificial Intelligence, Computer Vision and I'm currently researching and developing products in Fintech, Blockchain and the economy of the metaverse.
-
-Ps. Although these days, I think I'm falling in love with vuejs 🤫(Don't tell anyone!).
+💬 I enjoying writing about Artificial Intelligence specifically Computer Vision.
 
 ✨ I believe that there is so much left to build... and I'm looking to collaborate and contribute to building a future where AI can be leveraged to serve people, create value, and improve quality of life.
 
-🔭 Whenever I'm not building, you can find me learning Spanish, French or by the beach side eating turkey with a glass of yogurt.🌱😋
+🔭 When I'm not actively building or learning, you'll find me learning a language.🌱😋
 
-⚡ Currently, I building [web3signal](https://web3signal.com) and I write technical articles at [devMoment](https://devmoment.com)
+⚡ Currently, I building [GenXR](https://genxr.co) and I write technical articles at [devMoment](https://devmoment.com)
 
 #### I can help you with:
 
     Technical writing 📝
-    Computer Vision tasks 👁
-    Smart contract development
-
-
+    AI & Computer Vision tasks 👁
+    Build ML pipleine
 
 <!--
 **ehiaig/ehiaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
